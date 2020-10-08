@@ -73,7 +73,7 @@ footer:hover{
 }
 footer a:hover{
   background-color:#FF4500;
-  font-size:20px
+  font-size:20px;
     
 }
 footer a{
@@ -100,7 +100,7 @@ ul li:hover{
 }
 ul li a:hover{
   background-color:#FF4500;
-  font-size:20px   
+  font-size:20px;   
 }
 ul li a{
   color:brown;
@@ -130,7 +130,7 @@ header{
 @media screen and (max-width:800px){
   .topnav{
     background-color:chocolate;
-    font: size 75%;
+    font-size: 75px;
   }
 
 }
@@ -139,7 +139,7 @@ header{
 @media screen and (max-width:800px){
   .topnav a{
     background-color:chocolate;
-    font: size 75%;
+    font-size:75%;
   }
 
 }
@@ -147,7 +147,7 @@ header{
 @media screen and (max-width:800px){
   .topnav a:hover{
     background-color:chocolate;
-    font: size 75%;
+    font-size:75%;
   }
 
 }
@@ -155,7 +155,7 @@ header{
 @media screen and (max-width:800px){
   .topnav.active{
     background-color:chocolate;
-    font: size 75%;
+    font-size:75%;
   }
 }
 
@@ -178,21 +178,21 @@ header{
 
 @media screen and (max-width:800px){
   h1{
-    font: size 50%;
+    font-size:50%;
   }
 }
 
 
 @media screen and (max-width:800px){
   h3{
-    font: size 40%;
+    font-size:40%;
   }
 }
 
 
 @media screen and (max-width:800px){
   body{
-    font: size 40%;
+    font-size:40%;
   }
 }
 
